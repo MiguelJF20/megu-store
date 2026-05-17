@@ -1,1 +1,1 @@
-# megu-store
+# megu-storea
